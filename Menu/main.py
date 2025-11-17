@@ -19,9 +19,10 @@ if escolha == 0: # Tabuada
 #**************************************************************************************
 elif escolha == 1: #Termo e razão de uma PA
     pt = int(input("Estrva o primeiro termo da PA: ").strip())
+    ut = int(input("Estrva o último termo da PA: ").strip())
     r = int(input("Escreva a razão da PA: ").strip())
 
-    for c in range(pt, 11, r):
+    for c in range(pt, ut, r):
         print(c)
 #**************************************************************************************
 elif escolha == 2: #Soma de números pares
