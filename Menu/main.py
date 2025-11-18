@@ -95,7 +95,7 @@ elif escolha == 4: #JOKENPO
         elif jogador == 2:
             print("EMPATE")
 #**************************************************************************************
-elif escolha == 5: #Contagem de descnto
+elif escolha == 5: #Contagem de desconto
     print("\033[0:34m-=-\033[m" * 30)
     # ENTRADA
     valor = float(input("Qual o valor da compra? R$ ").strip())
