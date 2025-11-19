@@ -39,6 +39,10 @@ Calcula o Índice de Massa Corporal e informa a categoria (abaixo do peso, ideal
 
 O usuário informa três valores e o programa diz se é possível formar um triângulo e qual tipo ele seria (Equilátero, Isósceles ou Escaleno).
 
+8 — Palíndromo
+
+O usuário informa uma frase e é verificado se é um palíndromo
+
 
 🎯 Objetivo do projeto
 
